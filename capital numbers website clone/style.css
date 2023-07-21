@@ -1,0 +1,553 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.main{
+
+
+}
+.navv{
+    position: sticky;
+    top: 0px;
+}
+
+.navbar-main-div{
+
+    display: flex !important;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+    height: 70px;
+}
+
+
+a{
+    text-decoration: none !important;
+    color: black !important;
+    margin: 0px 10px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.background-img{
+
+    background: url(https://www.capitalnumbers.com/images/new-home-banner/home-banner-latest.jpg);
+
+
+}
+
+
+.feature-insight-background-img{
+
+    background: url(https://www.capitalnumbers.com/images/new-home-banner/home-banner-latest.jpg);
+    margin-top: 50px;
+
+}
+
+
+.top-heading-background-img{
+
+    color: white;
+    text-align: center;
+   font-size: 60px;
+   font-weight: bold;
+}
+
+
+.fields-main-div{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    color: #3cc065;
+    font-size: 5px;
+    font-weight: 800;
+    padding-top: 20px;
+}
+
+
+
+
+.fields{
+
+    font: weight 600px;;
+    font-size: 24px;
+}
+
+
+.Button-parent-div{
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+.book-a-call-button{
+
+    margin-top: 30px !important;
+    width: 300px !important;
+    height: 70px !important;
+    border-radius: 10px;
+    background-color: #ff5800 !important;
+    color: white !important;
+    
+}
+
+.book-a-call-button:hover{
+
+    background-color: white !important;
+    color: #ff5800 !important;
+}
+
+
+.book-a-call{
+
+    width: 170px;
+    height: 40px;
+}
+
+
+.color-white{
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+            text-decoration: underline !important;
+            
+    
+
+     
+}
+
+
+.color-dodger-blue{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+            text-decoration: underline !important;
+            color: dodgerblue !important ;
+
+}
+
+
+
+.color-white:hover{
+
+    text-decoration: none !important;
+}
+
+
+
+.color-dodger-blue:hover{
+
+    text-decoration: none !important;
+}
+
+
+
+.rating{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #81baff;;
+    text-align: center;
+    background-color: #061226;
+    /* margin-top: 150px; */
+    padding: 15px;
+   margin-top: 250px;
+
+}
+
+.fa-star{
+
+    color: yellow;
+    font-size: 10px !important;
+
+}
+
+
+.fa-star-half-o{
+    color: yellow;
+    font-size: 10px !important;
+    
+}
+
+.rating-img-main-parent{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 50px 0px 20px;
+    
+}
+
+ 
+.margin-left{
+    margin: 0px 0px 0px 40px;
+}
+
+
+.heading-rated{
+
+    font-size: 15px !important;
+    font-weight: 400;
+}
+
+
+.rating-numbers-heading{
+
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #81baff;;
+    
+}
+
+
+
+
+.parent-of-heading-and-global-brands{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+
+.parent-of-global-brands{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+.flex-direction-column{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+.img-global-brands{
+
+    margin: 0px 0px;
+    padding: 20px;
+}
+
+.heading-global-brand{
+       font-size: 17px;
+       font-weight: 700;
+}
+
+
+.color-green{
+
+    color: #3cc065;
+}
+
+
+.capital-number-rank-heading{
+
+    font-size: 45px;
+    text-align: center;
+
+}
+
+
+.capital-number-rank-paragraph{
+
+    text-align: center;
+    font-size: 21px;
+
+}
+
+
+.padding-top-thirty-px{
+    padding-top: 30px;
+}
+
+
+
+.padding-top-10-px{
+
+    padding-top: 10px;
+}
+
+
+
+
+.heading-our-software-development{
+
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.learn-more-link{
+
+    font-size: 17px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.fa-long-arrow-right{
+    margin-left: 10px;
+}
+
+.software-images{
+
+    width: 50px;
+    
+}
+
+.headings-of-softwares{
+
+    font-size: 30px;
+    text-align: justify;
+}
+
+
+
+.paragraph-of-softwares{
+
+    font-size: 17px;
+    text-align: justify;
+
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+
+
+
+
+.web-development-part{
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-left: 50px;
+}
+
+
+.all-items-main-div{
+
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 50px;
+}
+
+
+
+
+.left-and-right-both-items-main-div{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+.margin-top-fourty-px{
+
+    margin-top: 40px;
+}
+
+.direction-column{
+
+    display: flex;
+    flex-direction: column;
+   justify-content: start;
+}
+
+.book-background-img{
+
+    display: flex;
+
+}
+
+
+.space-around{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.green-background{
+
+
+    background: url(./assets/images/green-background.webp) no-repeat 0 0;
+    background-size: 100%;
+    width: 221px;
+    height: 57px;
+    
+}
+
+.managing-remote-div{
+
+    width: 500px;
+}
+
+
+.managing-remote-heading{
+
+    padding: 20px 0 20px 0;
+    font-size: 43px;
+    line-height: 50px;
+    font-family: Montserrat,sans-serif!important;
+    font-weight: 600;
+    color: white;
+
+}
+.green{
+
+    color: #3cc065;
+}
+
+
+.get-your-free-copy-button{
+
+    
+    border-radius: 10px;
+    color: white !important;
+    background-color: #ff5800 !important;
+    padding: 4px 0px 0px 0px !important;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+
+
+    
+}
+
+
+.green-background-text{
+
+    color: white;
+    font-weight: 600;
+    line-height: 47px;
+    
+    font-size: 20px;
+    padding: 0 0 15px 20px;
+    text-align: left;
+    font-family: Montserrat,sans-serif!important;
+
+
+}
+
+.nav-link{
+
+    font-size: 17px;
+}
+
+
+
+
+
+a.hiring {
+    padding: 3px 3px !important;
+    margin-left: 5px !important;
+    -webkit-box-flex: 0 !important;
+    -ms-flex: 0 0 95px !important;
+    flex: 0 0 95px !important;
+    font-size: 12px !important;
+    margin-top: 6px !important;
+    background-color: #4b8fe2 !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    font-weight: 500 !important;
+    position: relative !important;
+    margin-bottom: 20px !important;
+}
+
+
+
+
+
+
+
+@media (max-width: 511px) {
+  .paragraph-of-softwares {
+    display: inline-block;
+    white-space: nowrap;
+    text-align: center;
+    margin-bottom: 10px;
+   
+  }
+
+  .all-items-main-div {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+  }
+
+  .software-images {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .headings-of-softwares {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  
+  .learn-more-link {
+    text-align: center;
+  }
+  .web-development-part{
+    padding: 0px;
+  }
+
+  .margin-0px-auto{
+
+    margin: 0px auto;
+  }
+}
+
+
+
+
+@media screen and (max-width: 590px) {
+
+    .img-global-brands{
+
+        padding: 20px;
+        
+    }
+    
+    
+
+
+  }
+  
